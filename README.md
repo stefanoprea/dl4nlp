@@ -12,5 +12,3 @@
  * [ ] Implement voting system
  * [ ] Submit until January 20th on CodaBench
  * [ ] Send research article
-
-https://drive.google.com/drive/folders/1WFa0Okb54de93yzc4nxiSKZnotv2ZFQa?usp=sharing
